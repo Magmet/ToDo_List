@@ -1,0 +1,24 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "My pet project , developing on JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magmet/todo-list.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Nazar Roniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magmet/todo-list/issues"
+  },
+  "homepage": "https://github.com/Magmet/todo-list#readme"
+}
